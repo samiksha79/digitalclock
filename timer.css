@@ -1,0 +1,21 @@
+h1{
+    font-size:100px;
+    font-family:verdana;
+    border: 10px solid red;
+    border-radius: 10px;
+    width:900px;
+    text-align: center;
+    margin:100px 250px;
+    color: white;
+
+    /* background-color: aliceblue; */
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size:70px;
+}
+body{
+
+    background-color: black;
+}
